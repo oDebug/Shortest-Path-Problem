@@ -1,0 +1,13 @@
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\bin\Debug\ShortestPathMeier.exe.config
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\bin\Debug\ShortestPathMeier.exe
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\bin\Debug\ShortestPathMeier.pdb
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\ShortestPathMeier.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\MainWindow.baml
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\MainWindow.g.cs
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\App.g.cs
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\ShortestPathMeier_MarkupCompile.cache
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\ShortestPathMeier.g.resources
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\ShortestPathMeier.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\ShortestPathMeier.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\ShortestPathMeier.exe
+c:\users\chris\documents\visual studio 2012\Projects\ShortestPathMeier\ShortestPathMeier\obj\Debug\ShortestPathMeier.pdb
